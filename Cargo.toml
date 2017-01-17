@@ -1,0 +1,11 @@
+[package]
+name = "llrb"
+description = "left-leaning red-black tree"
+version = "0.0.1"
+authors = ["Tyler Neely <t@jujit.su>"]
+license = "Apache-2.0"
+repository = "https://github.com/spacejam/llrb-rs"
+documentation = "http://spacejam.github.io/docs/llrb/llrb"
+keywords = ["data-structures", "llrb", "tree"]
+
+[dependencies]
